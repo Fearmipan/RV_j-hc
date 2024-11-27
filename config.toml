@@ -9,7 +9,7 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-included-patches = "'Custom Shorts action buttons' 'Custom branding name for YouTube'"
+included-patches = "'Custom Shorts action buttons' 'Enable slide to seek'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
