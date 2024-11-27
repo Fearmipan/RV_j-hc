@@ -1,0 +1,35 @@
+        
+[
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom Shorts action buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "OutlineCircle"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "Music"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "Music"
+      }
+    ]
+  }
+]
+        
