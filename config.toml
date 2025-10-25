@@ -9,7 +9,7 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 arch = "arm64-v8a"
-included-patches = "Custom Branding"
+included-patches = "'Custom Branding'"
 patcher-args = "-e 'Custom branding' -OcustomName=YouTube"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -19,7 +19,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 [Music]
 build-mode = "both"
 arch = "arm64-v8a"
-included-patches = "Custom branding" 
+included-patches = "'Custom branding'" 
 patcher-args = "-e 'Custom branding' -OcustomName=YT Music"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
